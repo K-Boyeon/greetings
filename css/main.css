@@ -10,7 +10,7 @@ body { width: 1200px; margin: 0 auto;}
 .wrap .top .img{float: right; width: 53%; height: 250px; background: url(../img/ceo03.jpg) no-repeat center; border-left: 2px solid rgba(0, 0, 0, 0.07); border-radius: 0 0 20px 0; overflow: hidden;}
 .wrap .top .img img {}
 
-.wrap .greetings {margin-top: 50px; padding: 0 10px;}
+.wrap .greetings {margin-top: 22px; padding: 0 10px;}
 .wrap .greetings .texthead {display: flex; margin-bottom: 30px;}
 .wrap .greetings .texthead p {padding-left: 10px; font-size: 30px; font-weight: 700;}
 .wrap .greetings .texthead p:first-child { padding-left: 0;}
