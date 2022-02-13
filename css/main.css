@@ -1,0 +1,22 @@
+body { width: 1200px; margin: 0 auto;}
+.wrap {margin-top: 30px;}
+.wrap .top { background-color: #0076ab; border-radius: 20px 0 20px 0; }
+.wrap .top::after { content: ""; clear: both; display: block;}
+.wrap .top dl{float: left; width: 40%; padding: 50px 0 0 60px;}
+.wrap .top dl dd{ display: inline-block; margin-bottom: 20px; border-bottom: 1px solid #fff; font-size: 27px; line-height: 1.4; color: #fff;}
+.wrap .top dl dd:first-child {margin-bottom: 10px;}
+.wrap .top dl dd span {color: #b3e8ff;}
+.wrap .top dl dt{width: 80%; line-height: 1.4; color: #b3e8ff;}
+.wrap .top .img{float: right; width: 53%; height: 250px; background: url(../img/ceo03.jpg) no-repeat center; border-left: 2px solid rgba(0, 0, 0, 0.07); border-radius: 0 0 20px 0; overflow: hidden;}
+.wrap .top .img img {}
+
+.wrap .greetings {margin-top: 50px; padding: 0 10px;}
+.wrap .greetings .texthead {display: flex; margin-bottom: 30px;}
+.wrap .greetings .texthead p {padding-left: 10px; font-size: 30px; font-weight: 700;}
+.wrap .greetings .texthead p:first-child { padding-left: 0;}
+.wrap .greetings .texthead p strong {color: #0076ab; font-size: 34px; font-weight: 700;}
+.wrap .greetings .textbody p {margin-top: 25px; line-height: 1.4;}
+.wrap .greetings .textbody p strong {color: #0076ab;font-weight: 700; }
+.wrap .greetings .textbody p span {text-decoration: underline;}
+.wrap .greetings .textbody p:first-child { margin-top: -12px; font-size: 17px;}
+.wrap .greetings .textbody p:last-child { font-size: 17px; font-weight: 700;}
